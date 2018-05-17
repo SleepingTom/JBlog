@@ -1,7 +1,7 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          SleepingTom
+bio:            'A pro'
+description:    "Im only here for the bants."
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://sleepingtom.github.io/
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: Legend7899
+facebook: Tom
 #google:
   #plus: #username
   #analytics:
